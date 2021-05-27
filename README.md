@@ -1,5 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nathan Frank!
 
+My name is Nathan Frank and I am from southern california, but currently live in San Francisco. I went to the University of Southern California where I studied business with a focus in finance.
+
+Today I am a developer following my passion of turning ideas into reality. My favorite tools for coding are Python, Javascript, React / Redux, Ruby, and Flask. There is nothing better than working with a like-minded team to create a flawless product.
+
+---
+## Section 2
+
+---
+
 <!--
 **NathanFrank285/NathanFrank285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
