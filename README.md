@@ -15,7 +15,7 @@ Today I am a developer following my passion of turning ideas into reality. My fa
 ---
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanFrank285&langs_count=2&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanFrank285&langs_count=10&hide=css,html&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanFrank285&hide=issues,contribs&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
