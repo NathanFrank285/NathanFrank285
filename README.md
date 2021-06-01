@@ -6,6 +6,8 @@ My name is Nathan Frank and I am from southern california, but currently live in
 
 Today I am a developer following my passion of turning ideas into reality. My favorite languages/frameworks are Python, Javascript, React / Redux, Ruby, and Flask. There is nothing better than working with a like-minded team to create a flawless product.
 
+Check out my <a target='blank' href='https://nathanfrank285.github.io/'> portfolio </a>
+
 ---
 🧰  **Technical Toolbox**
 
